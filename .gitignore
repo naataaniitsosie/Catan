@@ -1,0 +1,7 @@
+#This files tells us what directories/files to ignore
+
+#Ignore Eclipse build files
+bin
+.settings
+.classpath
+.project
