@@ -2,6 +2,3 @@
 
 #Ignore Eclipse build files
 bin
-.settings
-.classpath
-.project
