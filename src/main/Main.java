@@ -3,7 +3,7 @@ package main;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Catan Client!! Testing a pull request");
+		System.out.println("Catan Client!! Testing a pull request!!!!");
 	}
 
 }
